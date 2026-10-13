@@ -25,3 +25,5 @@ dist-ssr
 .env
 # Personal work log (not for the repo)
 WORKLOG.md
+CLAUDE.md
+devrel-takehome.pdf
